@@ -12,6 +12,8 @@ github_username:  shiningbridge
 
 # Build settings
 markdown: redcarpet  
-highlighter: rouge
+# highlighter: rouge
 encoding: utf-8
 permalink: /:year/:month/:day/:title
+safe: true
+lsi: false
