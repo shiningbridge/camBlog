@@ -6,7 +6,9 @@ categories: java
 ---
 Java Notes (part 2)
 ===================
+
 ## Tips
+
 ### 向下转型，加一个判断
 
 ```java
@@ -31,6 +33,7 @@ class Person{
 }
 
 ```
+
 ## Object 类
 
 ### 先有老子
