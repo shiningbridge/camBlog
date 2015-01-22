@@ -44,11 +44,7 @@ Multi-drop, Multi-master, serial BUS.
 	* more than 6 (include 6) consequtive bit exist in one Tx. is not allowed. 
 	* usually incert a "stuff bit" to terminate consequtive zeros or ones. 
 
-{% highlight  %}
-
-{% endhighlight %}
-
-java
+'''java
 import java.io.*
 package javatar.simple.demo;
 
@@ -57,3 +53,4 @@ public class MM {
 		System.out.println("wokao" + "woqu" + 1 );
 	}
 }
+'''
